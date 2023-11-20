@@ -4,8 +4,6 @@ This project is a flappy bird game to help me understand the ins and outs of uni
 
 Although not as pretty, this game plays very similarly to the mobile game Flappy Bird. Press the spacebar to fly. If you hit a pole, the game is over. 
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the game being played and a walkthrough of the code.}
-
 [Software Demo Video](https://youtu.be/LPmmmCA8owI)
 
 # Development Environment
